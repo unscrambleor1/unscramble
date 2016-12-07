@@ -1,9 +1,9 @@
-<p align="center"> ![http://s9.picofile.com/file/8271934618/4_0.png](http://s9.picofile.com/file/8271934618/4_0.png)
-# [Jove V4.0](https://telegram.me/JoveTG)
+<p align="center"> ![](http://s9.picofile.com/file/8271934618/4_0.png)
+# [Jove V5.3 Finall](https://telegram.me/JoveTG)
 
 | Bot Name | Description | Powered By | Team name |
 |:--------|:------------|:------------|:------------|
-| Jove | Cli Anti Spam bot version 4.0 | Pouya Poorrahman | Titan Zeus |
+| Jove | Cli Anti Spam bot version 5.3 | Pouya Poorrahman | Titan Zeus |
 
 [![https://gitter.im/PouyaPoorrahman/Jove](https://badges.gitter.im/PouyaPoorrahman/Jove.svg)](https://gitter.im/PouyaPoorrahman/Jove?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
